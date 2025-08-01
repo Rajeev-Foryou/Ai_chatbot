@@ -1,0 +1,11 @@
+Q: What is StayNest?
+A: StayNest is a homestay rental platform where hosts can rent rooms to guests.
+
+Q: How can I list my property?
+A: Sign up as a host, complete KYC, and add your property details.
+
+Q: Does StayNest support cancellation?
+A: Yes, you can cancel bookings through your dashboard.
+
+Q: How do I contact support?
+A: You can reach our 24/7 support through the Help section or via email.
